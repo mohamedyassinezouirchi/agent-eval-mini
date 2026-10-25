@@ -1,0 +1,1 @@
+{"task":"summarize","expected_final":"done","events":[{"type":"tool","approved":true,"executed":true},{"type":"final","value":"done"}]}
